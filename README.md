@@ -1,2 +1,2 @@
-# DmitrijFirst
- Reminder_S.O.L.I.D
+# Абстрактные примеры для понимания принцыпов SOLID
+ 
